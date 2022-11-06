@@ -2,3 +2,12 @@ body {
     background-color: #eee;
 }
 
+p {
+    max-width: 350px;
+    background-color: firebrick;
+    margin: auto;
+    position: fixed;
+    left: 344px;
+    top: 0px;
+    bottom: 0px;
+}
