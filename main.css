@@ -2,18 +2,14 @@ body {
     background-color: #eee;
 }
 
-p {
-    max-width: 350px;
-    background-color: firebrick;
-    margin: auto;
-    position: fixed;
-    left: 344px;
-    top: 0px;
-    bottom: 0px;
+img {
+    float: right;
 }
 
-#over {
-    width: 100px;
-    height: 100px;
-    overflow: scroll;
+img:hover {
+    opacity: 0.9;
+}
+
+div p {
+    color: #f00;
 }
